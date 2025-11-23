@@ -28,6 +28,3 @@ This workflow automatically parses resumes, evaluates job-fit, ranks candidates,
 ---
 
 
-
-```md
-![Resume Screener Workflow](./resume-screener-diagram.png)
